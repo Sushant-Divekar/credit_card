@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f7f3ccd.css",
+    "main.js": "/static/js/main.85f6431e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/signup.jpg": "/static/media/signup.71c409518f8714b343df.jpg",
+    "static/media/login.png": "/static/media/login.e4e19628cb21e4c82e67.png",
+    "static/media/credit-card1.png": "/static/media/credit-card1.1b9bf53cf135e7b0b8de.png",
+    "static/media/cyber-security1.png": "/static/media/cyber-security1.5605f169f3b4a8d45b25.png",
+    "static/media/compensation.png": "/static/media/compensation.05b6bf5e904b735ebf01.png",
+    "static/media/credit-card.png": "/static/media/credit-card.7ab5de9834903e86f6ae.png",
+    "static/media/higher.png": "/static/media/higher.723067b3b2fcd28b5c0a.png",
+    "static/media/cyber-security.png": "/static/media/cyber-security.ec930d861bd3176cedf8.png",
+    "index.html": "/index.html",
+    "main.0f7f3ccd.css.map": "/static/css/main.0f7f3ccd.css.map",
+    "main.85f6431e.js.map": "/static/js/main.85f6431e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7f3ccd.css",
+    "static/js/main.85f6431e.js"
+  ]
+}
